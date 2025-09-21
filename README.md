@@ -40,3 +40,33 @@ Screenshot:
 <img width="1055" height="397" alt="Screenshot 2025-09-21 184812" src="https://github.com/user-attachments/assets/cd680d51-d5a2-4f64-aff8-e0a374daee3c" />
 
 
+# Admin
+Admin is the main actor who will be responsible for managing Doctors and Receptionists.  
+Below is the task list which will be performed by admin.
+
+- Admin can ADD/DELETE/UPDATE a doctor.
+- Admin can VIEW the list of doctors.
+- Admin can ADD/DELETE/UPDATE a receptionist.
+- Admin can VIEW the list of receptionists.
+- Admin can ADD/DELETE/UPDATE a patient.
+- Admin can ADD/DELETE/UPDATE appointments.
+
+---
+
+## Doctor
+- Doctor can check the appointment and the patient list.
+- Doctor can VIEW the appointments.
+- The doctor can VIEW the patient list.
+
+---
+
+## Receptionist
+- Receptionist can ADD/EDIT/VIEW appointments.
+- Receptionist can ADD/EDIT/VIEW patients.
+
+---
+
+## Technology
+
+
+
