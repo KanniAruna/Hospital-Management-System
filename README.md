@@ -6,7 +6,7 @@ The application follows an **Object-Oriented Design** with **DAO classes** handl
 
 The main objective of this project is to manage the basic hospital activities such as **patients, doctors, and appointments** directly from the terminal.
 
----
+
 
 ## Users
 There are three main entities in the system:
