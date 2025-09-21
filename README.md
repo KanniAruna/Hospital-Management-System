@@ -14,7 +14,7 @@ There are three main entities in the system:
 - **Doctor:** Stores doctor’s name and specialization.  
 - **Appointment:** Links a patient and doctor together with a specific date.  
 
----
+
 
 ## Modules
 
@@ -30,7 +30,7 @@ There are three main entities in the system:
 - Schedule new appointments by linking patient and doctor IDs
 - View all appointments  
 
----
+
 
 ## Technology  
 - **Frontend:** Command Line Interface (CLI)  
@@ -38,7 +38,7 @@ There are three main entities in the system:
 - **Programming Language:** Java (Core Java, JDBC, Collections)  
 - **Database Connectivity:** MySQL Connector/J (JDBC Driver)  
 
----
+
 
 ## Architecture
 - **DatabaseConnection.java** → Handles MySQL connection using JDBC  
@@ -46,12 +46,12 @@ There are three main entities in the system:
 - **Model Classes (Patient, Doctor, Appointment)** → Represent entities with attributes  
 - **Main.java** → Provides a menu-driven CLI interface for users to perform operations  
 
----
+
 
 ## Screenshot
 <img width="1055" height="397" alt="Screenshot 2025-09-21 184812" src="https://github.com/user-attachments/assets/cd680d51-d5a2-4f64-aff8-e0a374daee3c" />  
 
----
+
 
 ## How to Run
 1. Install **Java JDK** and **MySQL**.  
